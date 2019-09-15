@@ -290,7 +290,7 @@ a.link {
     padding: 15px 0;
     margin: 20px 0; }
     .section-title.section-title h2, .section-title-inverse.section-title h2 {
-      color: #101a23; }
+      color: #1a1a1a; }
       .section-title.section-title h2:after, .section-title-inverse.section-title h2:after {
         margin: 0; }
 
@@ -377,7 +377,7 @@ a.link {
     position: absolute;
     bottom: -2px;
     height: 4px;
-    background: #101a23;
+    background: #1a1a1a;
     z-index: 2;
     left: 0;
     transition: left 0.3s; }
